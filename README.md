@@ -1,4 +1,4 @@
-# Retro Slime Jumper
+# Retro Blue Guy
 
 A 2D retro-style platformer game built with PyGame.
 
