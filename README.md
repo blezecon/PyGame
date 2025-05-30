@@ -37,7 +37,7 @@ A 2D retro-style platformer game built with PyGame.
 - Download Python from [here](https://www.python.org/downloads/)
 - At command prompt enter `python --version` for checking python version
 - Then enter `pip install pygame` or `python -m pip install pygame` For installing pygame
-- `pip install numpy` For installing Numpy
+- `pip install numpy` or `python -m pip install numpy` For installing Numpy
 - Then Enter the below code to play the game
 
 ```
